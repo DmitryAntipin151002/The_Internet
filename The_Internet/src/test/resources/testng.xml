@@ -1,0 +1,8 @@
+<suite name="Test Suite">
+    <test name="Web Tests">
+        <classes>
+            <class name="tests.TestAddElements"/>
+            <class name="tests.BrokenImagesTest"/>
+        </classes>
+    </test>
+</suite>
