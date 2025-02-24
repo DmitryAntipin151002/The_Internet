@@ -3,6 +3,11 @@
         <classes>
             <class name="tests.TestAddElements"/>
             <class name="tests.BrokenImagesTest"/>
+            <class name="tests.CheckboxTest"/>
+            <class name="tests.ContextMenuTest"/>
+            <class name="tests.DragAndDropTest"/>
+            <class name="tests.DropdownTest"/>
+
         </classes>
     </test>
 </suite>
